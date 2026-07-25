@@ -134,14 +134,9 @@ Base URL: `/api`
 
 Auth is checked via an httpOnly `token` cookie set on login/register, or a `Authorization: Bearer <token>` header (for Postman).
 
-
-## Demo Video
-
-https://1drv.ms/v/c/311ef8dff607ae23/IQAtXmxhFuWtS6TwSxhXwDyYAZelelHhm4ZlVZmcZJjFlIs?e=OENZDK
-
 ## Deployed Site
 
-
+https://step8up-week-8.onrender.com
 
 ## Author
   Dee
