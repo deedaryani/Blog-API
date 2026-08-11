@@ -22,7 +22,7 @@ Step8Up Week-8 Assignment. A REST API for a blogging platform built with **Node.
 ## Project Structure
 
 ```
-Step8Up_Week-8/
+Blog-API/
 ├── config/db.js             # MySQL connection pool
 ├── controllers/             # Route logic (auth, posts, categories)
 ├── middleware/auth.js       # JWT verification middleware
@@ -39,8 +39,8 @@ Step8Up_Week-8/
 1. **Clone the repository** and navigate into the project directory.
 
    ```bash
-   git clone https://github.com/deedaryani/Step8Up_Week-8
-   cd Step8Up_Week-8
+   git clone https://github.com/deedaryani/Blog-API
+   cd Blog-API
    ```
 
 2. **Copy the `.env.example` file** and rename it to `.env`, then update the values (DB credentials, JWT secret).
