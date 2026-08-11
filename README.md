@@ -135,7 +135,7 @@ Auth is checked via an httpOnly `token` cookie set on login/register, or a `Auth
 
 ## Deployed Site
 
-http://deedaryani.alwaysdata.net/
+http://deedaryani.alwaysdata.net/blog-api
 
 ## Author
   Dee
