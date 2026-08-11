@@ -17,7 +17,7 @@ Step8Up Week-8 Assignment. A REST API for a blogging platform built with **Node.
 | Database  | MySQL                                  |
 | Auth      | JWT                                    |
 | Front-end | Vanilla HTML/CSS/JS                    |
-| Hosting   | [Render](https://render.com)           |
+| Hosting   | [alwaysdata](https://www.alwaysdata.com/en/)           |
 
 ## Project Structure
 
@@ -31,7 +31,6 @@ Step8Up_Week-8/
 ├── public/index.html        # Front-end
 ├── seed.js                  # Sample data loader
 ├── server.js                # App entry point
-├── render.yaml              # Render deployment blueprint
 └── .env.example
 ```
 
@@ -136,7 +135,7 @@ Auth is checked via an httpOnly `token` cookie set on login/register, or a `Auth
 
 ## Deployed Site
 
-https://step8up-week-8.onrender.com
+http://deedaryani.alwaysdata.net/
 
 ## Author
   Dee
